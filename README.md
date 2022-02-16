@@ -65,9 +65,9 @@ optional arguments:
 
 **[RedCodeTm](https://space.bilibili.com/392628031)**
 
-**[Use demo video](https://www.bilibili.com/video/BV1hL411c7XB/)**
+**[Use demo video](https://www.bilibili.com/video/BV1yL4y1376F/)**
 
-#twitter
+# twitter
 
 [@ExpLang_Cn](https://twitter.com/ExpLang_Cn)
 
