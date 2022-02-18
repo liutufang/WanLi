@@ -21,7 +21,9 @@ def clear():
             \  /\  / (_| | | | | |____| |  ____) | (_| (_| | | | |
              \/  \/ \__,_|_| |_|______|_| |_____/ \___\__,_|_| |_|
 
-                    [bold magenta]GitHub:https://github.com/ExpLangcn[/bold magenta]    
+                    [bold magenta]GitHub:https://github.com/ExpLangcn[/bold magenta]
+           [[bold red]本工具仅供学习与参考，请勿用于非法用途！否则一切后果自负[/bold red]]
+
                                                     [bold green]--Info:ExpLang[/bold green]                                                                    
         [/bold bule]''')
     else:
@@ -34,7 +36,8 @@ def clear():
             \  /\  / (_| | | | | |____| |  ____) | (_| (_| | | | |
              \/  \/ \__,_|_| |_|______|_| |_____/ \___\__,_|_| |_|
 
-                    [bold magenta]GitHub:https://github.com/ExpLangcn[/bold magenta]    
+                    [bold magenta]GitHub:https://github.com/ExpLangcn[/bold magenta]  
+           [[bold red]本工具仅供学习与参考，请勿用于非法用途！否则一切后果自负[/bold red]]  
                                                     [bold green]--Info:ExpLang[/bold green]                                                                    
         [/bold bule]''')
 def alter(file,old_str,new_str):
